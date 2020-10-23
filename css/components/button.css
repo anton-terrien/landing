@@ -2,7 +2,7 @@
 	background-image: url(../../images/texture-cheese.jpg);
 	background-size: cover; 
 	padding: 15px 20px;
-	color: opacity(0%);
+	color: opacity 0;
 	border-radius: 4px; 
 	margin-bottom: 40px;
 	margin-left: 200px;
